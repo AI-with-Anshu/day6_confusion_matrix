@@ -43,7 +43,7 @@ F1 Score  = 2 × (P × R) / (P + R)
 ---
 
 ## Output Figure
-![Day 6 Results](day6_results.png)
+![Day 6 Results](https://github.com/AI-with-Anshu/day6_confusion_matrix/blob/main/day6_results.png)
 
 ---
 
